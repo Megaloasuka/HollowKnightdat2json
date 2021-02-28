@@ -11,7 +11,7 @@
 * 首先你需要拥有Save Wizard for PS4 MAX的坑位，然后在PS4中导出你的空洞骑士存档至U盘
 * 打开Save Wizard for PS4 MAX，插入U盘，找到你的空洞骑士存档（港、欧、日、澳版本为CUSA13285，美版为CUSA13632），右键点击高级修改
 * 右上角点击input file，在弹出窗口中将从C:\Users\${USER}\AppData\LocalLow\Team Cherry\Hollow Knight 中转换而来的.json直接导入进去
-* 静待软件将U盘存档修改完成，从将Up盘插入至PS4，即可将继承存档导入至PS4
+* 静待软件将U盘存档修改完成，从将U盘插入至PS4，即可将继承存档导入至PS4
 
 ## 存档继承至Switch
 * 首先你需要拥有xsos，确保你升到了1.3，并且需要checkpoint存档管理器和nxmtp
