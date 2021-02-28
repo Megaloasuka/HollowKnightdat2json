@@ -30,12 +30,12 @@
 * The. json file can be opened in Notepad to see the status of the character
 * After editing, drag the. json file to the executable file to generate a. dat file in the same file directory
 * Put the. dat file back into C:\users\${user} appdata\locallow\team Cherry\hollow knight
-## Save inherited to PS4
+## Save inherite to PS4
 * First of all, you need to have Save Wizard for PS4 MAX, and then export your Hollow Knight saves in PS4 and copy it to USB flash disk
 * Open the Save Wizard for PS4 MAX, insert the flash drive, find your Hollow Knight Saves (CUSA13285 for Hong Kong, Europe, Japan and Australia Version, CUSA13632 for the US Version), right click the Advanced Mode
 * Click input file in the upper right corner, and in the pop-up window, directly import the. JSON converted from C:\users\${user} appdata\locallow\team Cherry\hollow knight
 * Wait for the software to complete the modification of the flash disk, and then insert the flash disk into PS4 to import the inherited saves into PS4
-## Save inherited to Switch
+## Save inherite to Switch
 * First of all, you need to have xsos to make sure you're up to 1.3, checkpoint archive manager and nxmtp
 * Select Hollow Knight, and press A to select it to start exporting
 * Choose nxmtp
