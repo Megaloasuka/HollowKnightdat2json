@@ -23,7 +23,7 @@
 
 ---
 
-**Hollowknowdat2json is a tool to make conversion between. dat to. json files of Hollow Knight saves. **
+**Hollowknowdat2json is a tool to make conversion between. dat to. json files of Hollow Knight saves.**
 ## How to Use
 * Find your Hollow Knight .dat saves, which is usually in C:\users\${user} appdata\locallow\team Cherry\hollow knight
 * Drag the. dat file to the executable file to generate a. json file consistent with it in the same file directory
