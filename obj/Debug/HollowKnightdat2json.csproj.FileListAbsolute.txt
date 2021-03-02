@@ -1,0 +1,8 @@
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\bin\Debug\HollowKnightdat2json.exe
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\bin\Debug\HollowKnightdat2json.pdb
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\bin\Debug\System.Windows.Forms.dll
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\obj\Debug\HollowKnightdat2json.csprojAssemblyReference.cache
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\obj\Debug\HollowKnightdat2json.csproj.CoreCompileInputs.cache
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\obj\Debug\HollowKnightdat2json.csproj.CopyComplete
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\obj\Debug\HollowKnightdat2json.exe
+C:\Users\13379\Documents\GitHub\HollowKnightdat2json\obj\Debug\HollowKnightdat2json.pdb
